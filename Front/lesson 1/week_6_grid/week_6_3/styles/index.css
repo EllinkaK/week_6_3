@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(6, 4, 14);
+  background-color: rgb(29, 28, 32);
   color: #fff;
   font-family: Arial, Helvetica, sans-serif;
   height: 100%;
@@ -65,4 +65,9 @@ body {
   color: black;
   grid-row-start: 1;
   grid-row-end: 5;
+}
+
+.none_checked {
+  font-weight: 10;
+  color: #ffffffba;
 }
